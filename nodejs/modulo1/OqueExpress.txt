@@ -1,0 +1,20 @@
+O que é o Express.js NPM
+
+Express.js é um framework web rápido, flexível e minimalista para o Node.js. Ele fornece 
+uma estrutura robusta para a construção de aplicativos web e APIs utilizando JavaScript do 
+lado do servidor. O Node.js, por sua vez, é uma plataforma de tempo de execução do JavaScript 
+construída sobre o motor V8 do Google Chrome, que permite executar 
+código JavaScript fora do navegador, no lado do servidor.O Express.js simplifica o processo de 
+criação de aplicativos web, fornecendo uma série de recursos e funcionalidades que lidam com tarefas 
+comuns, como roteamento de URLs, processamento de solicitações e respostas, gerenciamento de sessões,
+ manipulação de dados de formulários, autenticação de usuários, entre outros. Ele também possui uma 
+ arquitetura de middleware flexível, que permite adicionar funcionalidades extras às rotas e
+  manipular a requisição e resposta de maneira modular.Usando o Express.js em conjunto com o Node.js,
+   é possível construir aplicativos web completos e escaláveis, aproveitando a ampla disponibilidade
+    de bibliotecas e módulos JavaScript do ecossistema do Node.js. Além disso, o JavaScript 
+    é uma linguagem de programação popular e versátil, permitindo que os desenvolvedores usem 
+    a mesma linguagem tanto no lado do cliente (navegador) quanto no lado do servidor, 
+    simplificando o desenvolvimento e a manutenção do código.
+
+O que significa NPM ? -> Node package manager 
+
