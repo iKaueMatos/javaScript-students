@@ -25,8 +25,6 @@ const {cadernos} = cliente.compras.fisicas;
 
 console.log(cadernos.join(''));
 
-
-
 // const cliente = {
 //     nome: 'kaue',
 //     compras: {
