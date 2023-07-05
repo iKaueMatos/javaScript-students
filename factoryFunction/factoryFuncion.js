@@ -18,7 +18,6 @@ div.addEventListener('click',function(){
     console.log('clicou aqui');
 });
 
-
 function createH1(text) {
     function element() {
         const textElement = document.createElement('h1');
